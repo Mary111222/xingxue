@@ -1,0 +1,13 @@
+{
+  "app": "xingxue-plus",
+  "version": "1.1.7",
+  "build": "20261019.2053",
+  "size": 14599166,
+  "sha256": "dc20300a3ead54489e6909b536084e241eb832fb6e3e40095e9052d5c11a5ea1",
+  "notes": "应用内一键更新：设置 → 软件更新（一键更新 / 打开下载页 / 选择更新包），不再需要单独的检查更新程序；更新只替换程序文件，数据不动",
+  "urls": [
+    "https://raw.githubusercontent.com/Mary111222/xingxue/upgrade-channel/xingxue-upgrade-update.zip",
+    "https://github.com/Mary111222/xingxue/raw/upgrade-channel/xingxue-upgrade-update.zip",
+    "https://cdn.jsdelivr.net/gh/Mary111222/xingxue@upgrade-channel/xingxue-upgrade-update.zip"
+  ]
+}
